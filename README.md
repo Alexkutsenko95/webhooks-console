@@ -1,5 +1,7 @@
 # Webhooks — тестове завдання Senior Frontend Engineer (Smart Sender)
 
+[English version](README.en.md)
+
 Вхід, список вебхуків із пагінацією та пошуком, редагування. React 19 + TypeScript (strict),
 API — мок на MSW за контрактом із завдання.
 
